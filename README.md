@@ -2,7 +2,7 @@
 🌱 **Polyglot Developer** | 🚀 **Open Source Enthusiast** | 🎯 **Problem Solver**
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ashleee&theme=dark&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Ashleeeeeeeeeeeeeeeee&theme=dark&border_radius=4.6&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"></a>
 </p>
 
 ## 🔥 Latest Achievements
@@ -16,7 +16,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 
 **Frontend Mastery**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -34,8 +33,7 @@
 </p>
 
 ## 🚀 Pinned Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleee&repo=awesome-project&theme=dark)](https://github.com/ashleee/awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleee&repo=ai-platform&theme=dark)](https://github.com/ashleee/ai-platform)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ashleee&repo=awesome-project&theme=dark)](https://github.com/Ashleeeeeeeeeeeeeeeee/CAARDDDDDDDDDDDDDDDDDDDDDD)
 
 ## 🌱 Current Focus
 - 🔍 Exploring WebAssembly applications
@@ -45,10 +43,6 @@
 
 ## 💬 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashleee)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ashlee_codes)
-[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/ashleee)
 
 ## ☕ Support My Work
 [![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://ko-fi.com/ashleee)
-
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ashleee.ashleee)
