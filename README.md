@@ -40,7 +40,7 @@ I'm a passionate beginner developer exploring the world of coding. I love creati
 ---
 
 ## 📫 Let's Connect!
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+[![Instagram](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://www.instagram.com/kench.ng/)
 
 ---
 
