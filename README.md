@@ -1,6 +1,6 @@
 # Hi, I'm Ashlee! 👋
 
-🌱 **New Developer** | 💻 **Code Enthusiast** | 🚀 **Building My Skills Daily**
+🌱 **For Fun Codes** | 💻 **Code Enthusiast** | 🚀 **Building My Skills Daily**
 
 I'm a passionate beginner developer exploring the world of coding. I love creating simple solutions and learning through hands-on projects!
 
